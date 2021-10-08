@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 08b8add159df46246a971a73f1ad8e4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyBirdSprite: {fileID: 21300000, guid: bc910e624335faa439f3ebdf72cd743f, type: 3}
+  - enemyBirdPosition: {fileID: 4641974809619970, guid: 5942b724ed4701643838b90ea70cfa73,
+      type: 2}
+  - strawberryItemSprite: {fileID: 21300000, guid: 171d86d33bc932745b224eee495d6fe5,
+      type: 3}
+  - strawberryItemPosition: {fileID: 4540181808999484, guid: e05f8858bf6501141abf1d6ada87a690,
+      type: 2}
+  executionOrder: -200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
